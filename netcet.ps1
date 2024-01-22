@@ -1,4 +1,4 @@
-#Net Cat prewiev 
+# Net Cat preview 
 
 $ipadress ="10.2.1.5" # Sahte Ip 
 $port = 80
